@@ -1,0 +1,18 @@
+div {
+  background-color: red;
+  font-size: 50px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.test {
+  background-color: blue;
+}
+
+#demoId {
+  background-color: blueviolet;
+}
