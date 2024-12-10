@@ -1,0 +1,24 @@
+.header {
+  background-color: red;
+  padding: 10px;
+  margin: 5px;
+}
+.bodypage {
+  background-color: blue;
+  padding: 10px;
+  margin: 5px;
+  height: 500px;
+}
+.footer {
+  background-color: aqua;
+  padding: 10px;
+  margin: 5px;
+}
+
+.leftbody {
+  background-color: azure;
+  padding: 10px;
+  margin: 5px;
+  width: 100px;
+  height: 400px;
+}
